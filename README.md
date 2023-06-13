@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Guilherme and I'm a Backend Dev, from Portugal.</p>
+<p align="left">👋</p>
 
 ###
 
